@@ -20,9 +20,9 @@ This repository contains a Convolutional Neural Network (CNN) model for classify
 
 1. Prepare your dataset by organizing the images into separate folders for dogs and cats (you can add more folders in case there are more classes). The dataset is not provided in this repo.
 
-2. Run the Jupyter notebook to create, train and train the model
+2. Run the Jupyter notebook to create, train and test the model
 
-3. Evaluate the model using the prediction part with your image of a cat or a dog.
+3. Make a prediction using your own image of a cat or a dog.
 
 ## Model Architecture
 
